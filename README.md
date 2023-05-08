@@ -30,4 +30,7 @@ Na área de programação meu primeiro contato foi com  <b>Python</b>, além de 
 
 <br><br>
 
+![snake gif](https://github.com/ValtersonSantos/ValtersonSantos/blob/output/github-contribution-grid-snake.svg)
+
+
 
