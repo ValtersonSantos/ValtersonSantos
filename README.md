@@ -3,7 +3,7 @@
 ![Profile views](https://gpvc.arturio.dev/ValtersonSantos)
 
 
-![Valterson Santos 's GitHub stats](https://github-readme-stats.vercel.app/api?username=valtersonsantos&show_icons=true&theme=dracula)
+![Valterson Santos 's GitHub stats](https://github-readme-stats.vercel.app/api?username=valtersonsantos&show_icons=true&theme=merko)
 
 <div align="left">
   <a href="https://github.com/SteffanyLivino" target="_blank">
