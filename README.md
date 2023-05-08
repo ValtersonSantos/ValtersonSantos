@@ -3,7 +3,7 @@
 ![Profile views](https://gpvc.arturio.dev/ValtersonSantos)
 
 
-![Valterson Santos 's GitHub stats](https://github-readme-stats.vercel.app/api?username=valtersonsantos&show_icons=true&theme=radical)
+![Valterson Santos 's GitHub stats](https://github-readme-stats.vercel.app/api?username=valtersonsantos&show_icons=true&theme=dark)
 
 <div align="left">
   <a href="https://github.com/SteffanyLivino" target="_blank">
@@ -30,4 +30,4 @@ Na área de programação meu primeiro contato foi com  <b>Python</b>, além de 
 
 <br><br>
 
-![snake gif](https://github.com/ValtersonSantos/ValtersonSantos/blob/output/github-contribution-grid-snake.svg)
+
