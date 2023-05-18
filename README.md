@@ -26,7 +26,8 @@
 </div><br>
 
 Faço faculdade de  <b>Analise e Desenvolvimento de Sistemas </b> pela Uninassau (2023) além de faz um curso tecnico de Programação Full Stack  na <b> Infinity School</b>
-Na área de programação meu primeiro contato foi com  <b>Python</b>, além de <b> MYSQL</b>, <b> SQL</b>, <b> Tkinter</b>. Procuro está sempre atualizada nesta área.
+Na área de programação meu primeiro contato foi com  <b>Python</b>, além de <b> MYSQL</b>, <b> SQL</b>, <b> Tkinter</b>, <b> JS </b>, <b> HTML </b>, 
+<b> Power BI</b>. Procuro está sempre atualizada nesta área.
 
 <br><br>
 
