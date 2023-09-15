@@ -36,10 +36,11 @@
 
 ##
 
-https://github.com/ValtersonSantos/ValtersonSantos/blob/output/github-contribution-grid-snake.gif
-
-![snake gif](https://github.com/ValtersonSantos/ValtersonSantos/blob/output/github-contribution-grid-snake.gif)
-
 ![Snake animation](https://github.com/ValtersonSantos/ValtersonSantos/blob/output/github-contribution-grid-snake.svg)
+
+
+
+[![readme](https://github-stats.vercel.app/api/pin/?username=ValtersonSantos&repo=ValtersonSantos&theme=react)](https://github.com/ValtersonSantos/ValtersonSantos).
+
 
 
