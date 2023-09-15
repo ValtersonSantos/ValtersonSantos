@@ -40,7 +40,5 @@
 
 
 
-[![readme](https://github-stats.vercel.app/api/pin/?username=ValtersonSantos&repo=ValtersonSantos&theme=react)](https://github.com/ValtersonSantos/ValtersonSantos).
-
 
 
