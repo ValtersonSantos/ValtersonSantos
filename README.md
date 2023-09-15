@@ -1,9 +1,9 @@
 <h1>Hello!! 👋 I AM Valterson Santos</h1>
 
 
-- 💻📱 estou cursando analise e desenvolvimento de sistemas segundo semetre
+- 💻📱 cursando analise e desenvolvimento de sistemas
 - ✅ recentemente finalizei um curso com duração de 14 meses em Full Stack
-- 🌐 estou cursando Inglês pela wizard
+- 🌐 cursando Inglês pela wizard
 - 💎 tenho bastante experiência em coreldraw
   
 ##
